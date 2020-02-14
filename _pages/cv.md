@@ -24,6 +24,7 @@ redirect_from:
   Supervisor: [Dr. Abraham Punnen](http://www.sfu.ca/~apunnen/index.html)
 
 * **BSc in Mathematics, Beijing Electronic Science and Technology Institute**
+
   Sept. 2009 ~ June 2012
 
 
@@ -34,11 +35,6 @@ redirect_from:
 
 * **Associate, PwC**
   Aug. 2018 ~ Nov. 2018
-
-
-* **PhD in Civil Engineering and Applied Mechanics, McGill University**  
-  Sept. 2019 ~ Present  
-  Supervisor: [Dr. Lijun Sun](https://lijunsun.github.io/) 
 
 
 ## Awards & Honors

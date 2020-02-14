@@ -77,33 +77,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuang Dingyi"
-  avatar           : "zhaungdingyi_formal.jpg"
-  bio              : "M.Eng in Civil Engineering, McGill University"
+  name             : "Jingbo Tian"
+  avatar           : "JoshuaTian.jpg"
+  bio              : "PhD in Civil Engineering, McGill University"
   location         : "Montreal, Canada"
   employer         : 
   googlescholar    : 
-  email            : "dingyi.zhuang@mail.mcgill.ca"
+  email            : "jingbo.tian@mail.mcgill.ca"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : &facebook "Zhuang Dingyi"
+  facebook         : &facebook "Jingbo Tian"
   foursquare       :
-  github           : "ZhuangDingyi"
+  github           : "Jingbo Tian"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : &linkedin "dingyi-zhuang-719841133"
+  linkedin         : &linkedin "jingbo-joshua-tian-70174891"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : &twitter "zdy_bert"
+  twitter          :
   vine             :
   weibo            :
   xing             :

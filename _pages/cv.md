@@ -22,7 +22,10 @@ redirect_from:
 * **MSc in Mathematics, Simon Fraser University**  
   Sept. 2013 ~ Dec. 2017  
   Supervisor: [Dr. Abraham Punnen](http://www.sfu.ca/~apunnen/index.html)
-  
+
+* **BSc in Mathematics, Beijing Electronic Science and Technology Institute**
+  Sept. 2009 ~ June 2012
+
 
 ## Awards & Honors
 

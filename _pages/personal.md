@@ -4,7 +4,7 @@ title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
-<img src="https://JoshuaTian-McGill.github.io/images/JoshuaTian_dessert.jpg" />
+<img src="https://JoshuaTian-McGill.github.io/images/JoshuaTian_dessert_rotated.jpg" />
 
 ## Activities
 <img src=""/>  

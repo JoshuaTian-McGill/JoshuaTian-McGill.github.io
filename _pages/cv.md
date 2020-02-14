@@ -27,6 +27,18 @@ redirect_from:
   Sept. 2009 ~ June 2012
 
 
+## Work Experience
+
+* **Business Analyst, Meritco Services**
+  Nov. 2018 ~ April 2020
+
+
+
+* **PhD in Civil Engineering and Applied Mechanics, McGill University**  
+  Sept. 2019 ~ Present  
+  Supervisor: [Dr. Lijun Sun](https://lijunsun.github.io/) 
+
+
 ## Awards & Honors
 
 

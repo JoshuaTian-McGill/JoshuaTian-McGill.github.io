@@ -31,27 +31,3 @@ using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019
 * Siyu Hao, **Dingyi Zhuang**, Der-Horng Lee, A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction. **(Working paper)**
 
 ## News
-* October 22, 2019. my paper with Dr. Siyu Hao, *A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit* is accepted for presentation in Transportation Research Board 2020.
-
-* September 3, 2019. I enrolled McGill University as a master (thesis) student in the Department of Civil Engineering and Applied Mechanics
-
-* August 3, 2019, two papers, *A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit* and *A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction* were submitted to Transportation Research Board 2020
-
-* December 12, 2018. My work in NUS, *From compound word to metropolitan station: Semantic similarity analysis using smart card data*, was submitted to *Transportation Research Part C: Emerging Technologies*.
-
-
-* November 9, 2018. A paper was submitted to *Transportation Research Part E: Logistics and Transportation Review*.
-
-* October 13, 2018. I will report in [*WCTR Society’s SIG G2 Mid-Term Workshop*](http://e242.zserv.tuwien.ac.at/fileadmin/mediapool-verkehrsplanung/Diverse/Links/CfP_WCTR_SIG2_mid-term_event_final_v1.pdf) in Beijing.
-
-* September 15, 2018. An abstract was submitted to *The 19th COTA International Conference of Transportation Professionals ([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*
-
-* September 9, 2018. I made oral presentation in *The Sixth International Conference on Transportation and Logistics ([6th T-LOG](http://tlog2018.cicts-dmu.com/) )*.
-
-* August 6, 2018. A paper was accepted in *The 6th International Conference on Transportation and Space-time Economics ([TSTE 2018](http://tste.bjtu.edu.cn/) )*.
-
-* July 15, 2018. A paper was submitted to *Journal of Transport Geography*.
-
-* July 9, 2018. I start my research in National University of Singapore under the guidance of Prof. Lee Der-Horng.
-
-* May 16, 2018. A paper was accepted in *The Sixth International Conference on Transportation and Logistics ([6th T-LOG](http://tlog2018.cicts-dmu.com/) )*.

@@ -30,8 +30,10 @@ redirect_from:
 ## Work Experience
 
 * **Business Analyst, Meritco Services**
-  Nov. 2018 ~ April 2020
+  Nov. 2018 ~ April 2019
 
+* **Associate, PwC**
+  Aug. 2018 ~ Nov. 2018
 
 
 * **PhD in Civil Engineering and Applied Mechanics, McGill University**  

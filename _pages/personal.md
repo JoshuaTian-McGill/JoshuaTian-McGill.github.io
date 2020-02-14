@@ -4,10 +4,10 @@ title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
-<img src="https://zhuangdingyi.github.io/images/zhaungdingyi_oldport.jpg" />
+<img src="https://JoshuaTian-McGill.github.io/images/JoshuaTian_dessert.jpg" />
 
 ## Activities
-<img src="https://zhuangdingyi.github.io/files/coqd.png" style="width: 100px;float: right;"/>  
+<img src=""/>  
 
 **Vice president**, Center of Quality Development (2015.10-2017.9) 
 

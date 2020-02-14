@@ -20,6 +20,9 @@ My research interests center around fusing advanced data-driven models with tran
 
 ## Publication
 
-* Fuqiang Liu, Jiawei Wang, Dingyi Zhuang, **Jingbo Tian**, Luis Miranda-Moreno and Lijun Sun (2020) A General Framework Based on Temporally Dynamic Adjacency Matrix for Long-Term Traffic Prediction. **(Working paper)**
+* Fuqiang Liu, Jiawei Wang, Dingyi Zhuang, **Jingbo Tian**, Luis Miranda-Moreno and Lijun Sun (2020). A General Framework Based on Temporally Dynamic Adjacency Matrix for Long-Term Traffic Prediction. **(Submitted)**
+
+* Yuankai Wu, **Jingbo Tian**, Lijun Sun (2020). Graph neural tensor factorization for large-scale spatiotemporal imputation. **(Submitted)**
+
 
 ## News

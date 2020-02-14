@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Zhuang Dingyi (庄丁奕)"
+title: "Jingbo (Joshua) Tian"
 permalink: /cv/
 author_profile: true
 redirect_from:

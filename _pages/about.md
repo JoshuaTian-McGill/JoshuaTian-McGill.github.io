@@ -11,18 +11,12 @@ I am a doctoral student specializing in Artificial Intelligence and Intelligent 
 
 My research interests center around fusing advanced data-driven models with transportation domain knowledge in various transportation problems.
 
-
-
-My instructor in McGill is [Prof. Lijun Sun](https://lijunsun.github.io/). I received my Bachelor's degree in Mechanical Engineering of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and was a research student of [National University of Singapore](http://www.nus.edu.sg/). My supervisors in two universities are [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2) and  [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) respectively. Click [here](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (dingyi.zhuang at mail dot mcgill dot ca)](mailto:dingyi.zhuang@mail.mcgill.ca).
-
-My research interests lie in spatial-temporal data mining and urban computing, particularly in applying advanced graph network methods on intelligent transportation system and human mobility modeling to solve urban transportation issues and build a smart city.
-
 ## Research Interests
 
-* Urban computing & smart city
-* Graph network & complex network
-* Intelligent transportation systems
-* Human mobility and travel behavior
+* Intelligent transporation system
+* Optimization models applied to real world problems
+* Advanced data-driven models applied to real world problems
+* Quantitative models applied to business problems
 
 ## Publication
 * **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, An empirical study on cycle lane network using bike sharing data: the case of Shanghai, *2018 International Conference on Transportation and Space-time Economics*. **(Presentation)**[PPT](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)

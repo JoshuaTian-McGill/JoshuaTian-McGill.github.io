@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a doctoral student specializing in Artificial Intelligence and Intelligent Transportation System under the supervision of Dr. Lijun Sun [Prof. Lijun Sun](https://lijunsun.github.io/) in the Department of Civil Engineering at [McGill University](https://www.mcgill.ca/). I received my master's degree in Science from [Simon Fraser University] (https://www.sfu.ca/)
+I am a doctoral student specializing in Artificial Intelligence and Intelligent Transportation System under the supervision of Dr. Lijun Sun [Prof. Lijun Sun](https://lijunsun.github.io/) in the Department of Civil Engineering at [McGill University](https://www.mcgill.ca/). I received my master's degree in Science from [Simon Fraser University](https://www.sfu.ca/). During my master's studies, I worked on multiplicative optimization problems and various optimization project.
+
+My research interests center around fusing advanced data-driven models with transportation domain knowledge in various transportation problems.
 
 
 

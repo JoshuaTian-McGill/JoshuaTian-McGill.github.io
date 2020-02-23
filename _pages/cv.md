@@ -10,8 +10,6 @@ redirect_from:
 ## CV
 {% include base_path %}
 
-[My Up-to-date Curriculum Vitae](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv.pdf)
-
 ## Education
 
 * **PhD in Civil Engineering and Applied Mechanics, McGill University**  
